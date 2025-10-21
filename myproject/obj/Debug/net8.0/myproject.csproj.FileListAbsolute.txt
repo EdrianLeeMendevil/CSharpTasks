@@ -1,0 +1,15 @@
+/workspaces/CSharpTasks/myproject/bin/Debug/net8.0/myproject
+/workspaces/CSharpTasks/myproject/bin/Debug/net8.0/myproject.deps.json
+/workspaces/CSharpTasks/myproject/bin/Debug/net8.0/myproject.runtimeconfig.json
+/workspaces/CSharpTasks/myproject/bin/Debug/net8.0/myproject.dll
+/workspaces/CSharpTasks/myproject/bin/Debug/net8.0/myproject.pdb
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.AssemblyInfoInputs.cache
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.AssemblyInfo.cs
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.csproj.CoreCompileInputs.cache
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.sourcelink.json
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.dll
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/refint/myproject.dll
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.pdb
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/myproject.genruntimeconfig.cache
+/workspaces/CSharpTasks/myproject/obj/Debug/net8.0/ref/myproject.dll
